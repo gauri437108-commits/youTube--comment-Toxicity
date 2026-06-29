@@ -1,8 +1,7 @@
-flask
 transformers
 torch
 sentence-transformers
 pandas
 numpy
 scikit-learn
-gunicorn
+
